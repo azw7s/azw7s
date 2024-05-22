@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **PizzaParadiso**
 
-- 🌱 I’m currently learning **ORM**
-
-- 💬 Ask me about **Django**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **amirhossein.sf313@gmail.com**
-
-- ⚡ Fun fact **Real eyes realize real lies, it's not fun but still a fact!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
