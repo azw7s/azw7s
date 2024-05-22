@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amirhossein.sf313@gmail.com**
 
-- https://github.com/azw7s/azw7s/blob/main/xd.png
+![xd](https://github.com/azw7s/azw7s/assets/154253664/5dbe1cfe-c04c-4486-88ff-2996a2ab2663)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
