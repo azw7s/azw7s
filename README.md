@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm amir</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+![programming](https://github.com/azw7s/azw7s/assets/154253664/d02b857e-c81a-43d3-9d2c-1a6d30fc8206)
+
 - 🔭 I’m currently working on **PizzaParadiso**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** 
 
-- 📫 How to reach me **amirhossein.sf313@gmail.com**
-
-![xd](https://github.com/azw7s/azw7s/assets/154253664/5dbe1cfe-c04c-4486-88ff-2996a2ab2663)
+- 📫 How to reach me **amirhossein.sf313@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
