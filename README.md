@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm amir</h1>
-<h3 align="center">A passionate backend developer from Iran</h3>
+<h3 align="center">A Persian passionate backend developer from Kuwait</h3>
 
 ![programming](https://github.com/azw7s/azw7s/assets/154253664/d02b857e-c81a-43d3-9d2c-1a6d30fc8206)
 
