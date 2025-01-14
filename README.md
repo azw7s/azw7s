@@ -3,9 +3,9 @@
 
 ![programming](https://github.com/azw7s/azw7s/assets/154253664/d02b857e-c81a-43d3-9d2c-1a6d30fc8206)
 
-- 🔭 I’m currently working on **PizzaParadiso**
+- 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **Django** 
+- 🌱 Always learning something **New**
 
 - 📫 How to reach me **amirhossein.sf313@yahoo.com** 
 
